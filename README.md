@@ -1,5 +1,3 @@
-Release #1, December 2016
-
 This code implements various methods described in:
 
 C. G. Bampis, P. Maragos and A. C. Bovik, "Projective non-negative
